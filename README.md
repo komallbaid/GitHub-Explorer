@@ -87,20 +87,6 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 ---
 
-## License
-
-This project is licensed under the MIT License.
-
----
-
-## Acknowledgments
-
-- Inspired by FreeCodeCamp’s GitHub project explorer tutorials
-- React documentation and ecosystem
-- Tailwind CSS utilities and community
-- Chart.js interactive charts library
-
----
 
 ### Contact
 
