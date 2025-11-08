@@ -6,7 +6,7 @@ GitHub Explorer is an interactive dashboard to explore trending GitHub repositor
 
 ## Features
 
-- Search repositories by keyword, filter by language
+- Search repositories by keyword, filter by language.
 - Sort by stars, update date, or other criteria
 - Display repository details with stars, forks, language tags
 - Interactive charts (powered by Chart.js) to visualize repo stats
